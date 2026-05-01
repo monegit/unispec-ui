@@ -1,6 +1,6 @@
 {
   "name": "@pjw970220/universal-ui",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Building Reusable UI Components with ReactJS and React Native",
   "type": "module",
   "sideEffects": false,
